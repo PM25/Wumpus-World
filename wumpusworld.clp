@@ -9,7 +9,7 @@
     (observations (breeze 3 4)) 
     (observations (breeze 4 1)) 
     (observations (breeze 4 3))
-	(observations (stench 1 2))
+    (observations (stench 1 2))
     (observations (stench 1 4)) 
     (observations (stench 2 3))
 )
